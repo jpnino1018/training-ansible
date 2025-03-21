@@ -62,7 +62,7 @@ ansible-playbook -i inventory/hosts.ini playbooks/run_container.yml
 Verificar que el contenedor está en ejecución:
 
 ```bash
-ssh azureadmin@<IP_DE_LA_VM>
+ssh azureadmin@51.136.24.86
 sudo docker ps
 ```
 
@@ -72,8 +72,9 @@ sudo docker ps
 Una vez el contenedor está en ejecución, acceder al juego desde el navegador:
 
 ```
-http://<IP_DE_LA_VM>:8787
+http://51.136.24.86:8787
 ```
+![image](https://github.com/jpnino1018/training-ansible/mario.png)
 
 
 
