@@ -74,7 +74,7 @@ Una vez el contenedor está en ejecución, acceder al juego desde el navegador:
 ```
 http://51.136.24.86:8787
 ```
-![image](https://github.com/jpnino1018/training-ansible/mario.png)
+[![image](https://github.com/jpnino1018/training-ansible/blob/main/mario.png)]
 
 
 
